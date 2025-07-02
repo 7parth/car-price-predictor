@@ -55,11 +55,6 @@ cd car-price-predictor
 
 ### 2. Install Dependencies
 ```bash
-pip install -r requirements.txt
-```
-
-Or manually:
-```bash
 pip install flask pandas numpy scikit-learn
 ```
 
@@ -71,10 +66,6 @@ python app.py
 ### 4. Open in Browser
 Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-## 📸 Screenshots
-
-*(Add screenshots of the web UI here if available)*
-
 ## 🛠 Future Improvements
 
 - Use more advanced models (e.g., XGBoost, Random Forest)
@@ -82,7 +73,7 @@ Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - Show prediction on the HTML page instead of returning raw text
 - Deploy on Render/Heroku
 
-## 📄 License
+
 
 This project is for educational purposes.
 
