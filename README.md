@@ -80,5 +80,5 @@ This project is for educational purposes.
 ## 🙋‍♂️ Author
 
 Parth Waradkar  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 waradkarparth@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/parth-waradkar-b96951289/) | [GitHub](https://github.com/7parth)
