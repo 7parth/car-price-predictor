@@ -66,14 +66,6 @@ python app.py
 ### 4. Open in Browser
 Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
-## 🛠 Future Improvements
-
-- Use more advanced models (e.g., XGBoost, Random Forest)
-- Add input validation & error handling
-- Show prediction on the HTML page instead of returning raw text
-- Deploy on Render/Heroku
-
-
 
 This project is for educational purposes.
 
